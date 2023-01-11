@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About Me.
+
 I'm Suvra Ghosh,an undergraduate,pursuing my Bachelor of Computer Apllication at MAKAUT.
 
 My main field of interest is Web-Development and Design but I like exploring and experimenting in other domains such as Data Science,Blockchain Development and many more. I try to actively participate in open-source events.
