@@ -14,10 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About Me.
+<h1 align="center">Hi, I'm Suvra Ghosh👋</h1>
 
-I'm Suvra Ghosh,an undergraduate,pursuing my Bachelor of Computer Apllication at MAKAUT.
+###
 
-My main field of interest is Web-Development and Design but I like exploring and experimenting in other domains such as Data Science,Blockchain Development and many more. I try to actively participate in open-source events.
+<img align="left" height="404" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"  />
 
-Actively looking for internships and willing to connect and collaborate on projects.
+###
+
+<h3 align="left">Connect With Me:</h3>
+
+###
+
+<div align="left">
+  <a href="https://twitter.com/Mahisuvra07" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/suvraghosh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<br clear="both">
+
+<p align="left">-👋 Hello, I'm Suvra Ghosh,a passionate software engineer.<br>-💻 Specializing in Full Stack Web Development, turning complex problems into elegant solutions<br>- 🤝 Collaborative team player, enthusiastic about innovative projects and open-source contributions.<br>-🌟 Strong believer in continuous improvement and lifelong learning.<br>-🚀 Let's connect and collaborate on coding adventures! Explore my repositories and reach out for tech discussions.</p>
+
+###
