@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Suvra Ghosh</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
-<div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"  />
-</div>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 📫 How to reach me **ghoshsuvra2566@gmail.com**
 
