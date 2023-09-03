@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img src="assets/party-parrot-2.gif" width="31" height="31"/>
 </h2> -->
 
-<img align="right" height="250" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 ## About me
 ### ✨ Creating bugs since  2020
